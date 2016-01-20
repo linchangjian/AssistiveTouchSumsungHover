@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/src/main/res/values-mdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="size_dialog">290.0px</dimen>
+    <dimen name="size_icon_app">52.0px</dimen>
+</resources>

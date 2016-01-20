@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/pre-dexed/debug/classes-1525b022faffcaf34390ff50ef4a195cb16c23e3.jar" />
+    </item>
+    <item
+        jar="/Users/aniu/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-91b836399ec94b2189017fcb0d4d0c736694ec15.jar" />
+    </item>
+    <item
+        jar="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b0035819826a547a05290bdae170bc8b0b2616fc.jar" />
+    </item>
+    <item
+        jar="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/libs/libspen22.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bd0aa8790531a78b3fd9f6fef18b831560d190e">
+        <dex dex="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/pre-dexed/debug/libspen22-a28d3ffda806cee3ec928dafdc6ae566754b9e51.jar" />
+    </item>
+    <item
+        jar="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/libs/libspen22_multiwindow.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0a95285d47ceb492e10878495cba03695263aebc">
+        <dex dex="/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/build/intermediates/pre-dexed/debug/libspen22_multiwindow-8c66f3b1df9c61dfcdecb40b1b55f9417c2c5996.jar" />
+    </item>
+
+</items>

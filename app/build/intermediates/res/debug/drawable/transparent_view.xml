@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@color/transparent" android:state_pressed="true"/>
+    <item android:drawable="@color/transparent" android:state_selected="true"/>
+    <item android:drawable="@color/transparent"/>
+</selector><!-- From: file:/Users/aniu/Downloads/libgdx-1.6.1/AssistiveTouchV1.2.0/app/src/main/res/drawable/transparent_view.xml -->
